@@ -1,6 +1,6 @@
 # Salary Prediction based on Job types 
 
-## Problem Definition : Dataset consisting of training features, training target and test features are provided and aim is to perform exploratory data analysis and develop a machine learning model which will predict salaries based on job types.
+## Problem Definition : Dataset consisting of training features, training target and test features are provided, aim is to perform exploratory data analysis and develop a machine learning model which will predict salaries based on job types.
 
 ## Introduction :
 ### The dataset contains information about 1 million people. It contains their salaries,job types, industry, education, major, years of experience and miles from metroplois, job and company Id.
