@@ -12,7 +12,7 @@
 ## 3) Data Cleaning & Exploration
 ## 4) Data Visualization
 
-## -------------------------------------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------
 
 ## 1) Importing Libraries 
 ### Libraries used for exploratory data analysis are as follows:
