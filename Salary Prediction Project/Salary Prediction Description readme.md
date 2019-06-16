@@ -11,6 +11,7 @@
 ## 2) Loading the Data
 ## 3) Data Cleaning & Exploration
 ## 4) Data Visualization
+## 5) Machine Learning model to predict salaries based on job types
 
 ## -------------------------------------------------------------------------------
 
@@ -30,3 +31,6 @@
 
 ## 4) Data Visualization
 ### This process involves visualizing data and to understand the relation between each feature and the target variable i.e. salary.
+
+## 5) Machine Learning model to predict salaries based on job types
+### We are using Mean Square Error for evaluating the machine learning models. Deployed linear regression, random forest regressor, gradient boosting regressor and observed that random forest regressor provides the minimum mean square error i.e.  368.58. Thus, for this situation random forest regressor is the suitable model. A bar graph depicting feature importances is plotted after deploying the model and from the bar graph we  conclude that the top three features which play a important role in predicting salaries are years of experience, job type and miles from metropolis.
