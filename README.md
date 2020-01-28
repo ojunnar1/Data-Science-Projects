@@ -8,4 +8,5 @@ Training and testing dataset is provided. Objective is to develop machine learni
 
 ## House Prices: Advanced Regression Techniques
 
-Kaggle Competition. Training and testing dataset is provided. Objective is to predict sales prices of houses by applying various machine learning models and feature engineering. Ranked in top 20% on Kaggle.
+Kaggle Competition. Training and testing dataset is provided. Objective is to predict sales prices of houses by applying various machine learning models and feature engineering.
+
